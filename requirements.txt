@@ -1,0 +1,10 @@
+torch torchvision
+transformers~=4.33.0
+google
+
+
+numpy~=1.25.2
+torch~=2.0.1
+pandas~=2.1.0
+requests~=2.31.0
+beautifulsoup4~=4.12.2
