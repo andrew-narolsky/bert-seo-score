@@ -1,3 +1,4 @@
+# 1. Console version
 # Bert_Squad_SEO
 
 This tool provide a "Bert Score" for the first 30 pages responding to a question in Google
